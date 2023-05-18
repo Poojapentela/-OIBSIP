@@ -3,3 +3,6 @@ A landing page aims to capture information from contacts in exchange for somethi
 
 
 A portfolio website is a unique way to showcase your work and let others know about yourself.
+
+
+The Temperature Converter is a simple project developed using HTML5, CSS, and JavaScript. This is a simple project that converts temperature from a Celcius unit to Fahrenheit and vice versa.
